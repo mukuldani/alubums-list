@@ -10,7 +10,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - Once node is installed pull the code from `main` branch and using the git bash / command line install the packages using command `npm install`. This will install the packages.
 - Once the packages are sucessfully installed then to run the project use command `ng serve`.
-- After the build is completed use `[http](http://localhost:4200)` to open the project in browser.
+- After the build is completed use `(http://localhost:4200)` to open the project in browser.
 
 ## Development server
 
