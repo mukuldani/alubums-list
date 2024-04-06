@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
+## Prerequisites
+
+- node version >= 14.21.3
+
+## Prerequisites
+
+- Once node is installed pull the code from `main` branch and using the git bash / command line install the packages using command `npm install`. This will install the packages.
+- Once the packages are sucessfully installed then to run the project use command `ng serve`.
+- After the build is completed use `[http](http://localhost:4200)` to open the project in browser.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
